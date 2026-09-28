@@ -9,11 +9,11 @@
 #
 # Uso:
 #   bash comecar.sh
-#   curl -fsSL https://raw.githubusercontent.com/melgarafael/DeskcommCRM/main/setup-kit/comecar.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/scominatoo/CRM/main/setup-kit/comecar.sh | bash
 #
 set -euo pipefail
 
-REPO_URL="${REPO_URL:-https://github.com/melgarafael/DeskcommCRM.git}"
+REPO_URL="${REPO_URL:-https://github.com/scominatoo/CRM.git}"
 # Oferta recomendada no README. Uma promessa só, num lugar só — duas redações
 # da mesma oferta viram duas ofertas.
 VPS_URL="https://www.hostg.xyz/SHJ5B"
